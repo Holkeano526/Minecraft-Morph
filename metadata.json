@@ -1,0 +1,7 @@
+{
+  "name": "Minecraft-ify Me",
+  "description": "Transform your photos into pixel-perfect Minecraft characters using Gemini's advanced image-to-image generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
